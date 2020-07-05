@@ -1,1 +1,9 @@
 Voiceflow connects the search api to the streaming system.
+
+Public search apis:
+https://unofficial-skills-eu.herokuapp.com/
+https://unofficial-skills-us.herokuapp.com/
+
+Public DL apis:
+https://unofficial-skills-dl-sever-eu.herokuapp.com/
+https://unofficial-skills-dl-sever-us.herokuapp.com/
