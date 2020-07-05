@@ -1,0 +1,5 @@
+include LICENSE
+include AUTHORS
+include CHANGELOG.rst
+recursive-include docs *
+prune docs/_build
