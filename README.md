@@ -1,5 +1,5 @@
 # Alpha-Tube
-[![HitCount](http://hits.dwyl.com/unofficial-skills/Alpha-Tube.svg)](http://hits.dwyl.com/unofficial-skills/Alpha-Tube)
+[![HitCount](http://hits.dwyl.com/unofficial-skills/alpha-video.svg)](http://hits.dwyl.com/unofficial-skills/alpha-video)
 
 
 Alpha Tube is a new version of the youtube skill.
