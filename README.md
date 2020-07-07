@@ -15,3 +15,5 @@ The skill is a module based system to simplify adding additional functionality.
 ©ANDREWSTECH & ©UNOFFICIAL-SKILLS
 
 YouTube and the YouTube logo are registered trademarks of Google LLC.
+
+[![next](https://www.europex.org/wp-content/uploads/intense-cache/icons/plugin/elusive/arrow-right.svg)](https://alpha-video.andrewstech.me/setup/)
