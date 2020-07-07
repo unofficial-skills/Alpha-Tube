@@ -1,6 +1,9 @@
 # Alpha-Video
 [![HitCount](http://hits.dwyl.com/unofficial-skills/alpha-video.svg)](http://hits.dwyl.com/unofficial-skills/alpha-video)
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
 
 Alpha Video is a new version of the youtube skill.
 This version is currently in the works!!
@@ -16,4 +19,4 @@ The skill is a module based system to simplify adding additional functionality.
 
 YouTube and the YouTube logo are registered trademarks of Google LLC.
 
-[![next](https://www.europex.org/wp-content/uploads/intense-cache/icons/plugin/elusive/arrow-right.svg)](https://alpha-video.andrewstech.me/setup/)
+
