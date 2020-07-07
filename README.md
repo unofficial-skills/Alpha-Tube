@@ -11,3 +11,7 @@ The skill will be more stable and support for cast functionality is planned.
 Subscriptions of YouTube channels are also planned.
 
 The skill is a module based system to simplify adding additional functionality.
+
+©ANDREWSTECH & ©UNOFFICIAL-SKILLS
+
+YouTube and the YouTube logo are registered trademarks of Google LLC.
