@@ -20,8 +20,11 @@ The skill is a module based system to simplify adding additional functionality.
 
 Setup will be avalible soon [here](https://alpha-video.andrewstech.me/setup/)
 
-
-
+People behind the skill
+=====================
+- [AndrewsTech](https://github.com/andrewstech)
+- [JaimeMF](https://github.com/jaimeMF)
+- [HermanFassett](https://github.com/HermanFassett)
 
 
 ©ANDREWSTECH & ©UNOFFICIAL-SKILLS
