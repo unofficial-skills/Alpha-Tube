@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-
+![Twitter Follow](https://img.shields.io/twitter/follow/andrewstech?label=follow&style=plastic)
 
 Alpha Video is a new version of the youtube skill.
 This version is currently in the works!!
