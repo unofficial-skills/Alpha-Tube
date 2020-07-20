@@ -22,9 +22,9 @@ Setup will be avalible soon [here](https://alpha-video.andrewstech.me/setup/)
 
 People behind the skill
 =====================
-- [AndrewsTech](https://github.com/andrewstech) - The skill maker
-- [JaimeMF](https://github.com/jaimeMF) - The maker of YouTube-DL-Api
-- [HermanFassett](https://github.com/HermanFassett) - The maker of the YouTube-Scrape
+- [AndrewsTech](https://github.com/andrewstech) - The skill maker.
+- [JaimeMF](https://github.com/jaimeMF) - The maker of YouTube-DL-Api.
+- [HermanFassett](https://github.com/HermanFassett) - The maker of the YouTube-Scrape.
 
 
 ©ANDREWSTECH & ©UNOFFICIAL-SKILLS
