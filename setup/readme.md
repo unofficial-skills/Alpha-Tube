@@ -1,3 +1,7 @@
+Setup
+=====================
+The skill requires both Youtube-Dl and Youtube-Scrape to operate. Install them by clicking the deploy button per section.
+
 YouTube-Dl
 =====================
 
