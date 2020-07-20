@@ -18,7 +18,7 @@ Subscriptions of YouTube channels are also planned.
 The skill is a module based system to simplify adding additional functionality.
 
 
-Setup will be avalible soon at: https://alpha-video.andrewstech.me/setup
+Setup will be avalible soon [here](https://alpha-video.andrewstech.me/setup/)
 
 
 
