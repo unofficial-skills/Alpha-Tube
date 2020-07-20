@@ -1,5 +1,5 @@
 # Alpha-Video
-[![Alexa]https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fraw.githubusercontent.com%2Funofficial-skills%2Falpha-video%2Fmaster%2FEndpoint.json]
+[![Alexa](https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fraw.githubusercontent.com%2Funofficial-skills%2Falpha-video%2Fmaster%2FEndpoint.json)
 
 [![HitCount](http://hits.dwyl.com/unofficial-skills/alpha-video.svg)](http://hits.dwyl.com/unofficial-skills/alpha-video)
 
