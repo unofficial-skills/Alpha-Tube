@@ -9,6 +9,9 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/andrewstech1?label=follow&style=plastic)
 
+[![Analytics](https://ga-beacon.appspot.com/UA-158158168-7/home)](https://github.com/igrigorik/ga-beacon)
+
+
 Alpha Video is a new version of the youtube skill.
 This version is currently in the works!!
 
