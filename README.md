@@ -31,6 +31,10 @@ People behind the skill
 - [JaimeMF](https://github.com/jaimeMF) - The maker of YouTube-DL-Api.
 - [HermanFassett](https://github.com/HermanFassett) - The maker of the YouTube-Scrape.
 
+If you have any issues then feel free to chat on the Discord sever. Join by clicking the link bellow.
+
+[![Discord](https://img.shields.io/discord/735427271267188758)](https://discord.gg/Ye2a4UY)
+
 
 ©ANDREWSTECH & ©UNOFFICIAL-SKILLS
 
