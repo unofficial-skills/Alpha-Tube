@@ -9,7 +9,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/andrewstech1?label=follow&style=plastic)
+[![Twitter Follow](https://img.shields.io/twitter/follow/andrewstech1?label=follow&style=plastic)](https://twitter.com/andrewstech1)
 
 -----------------------------------------------------------------------------------------
 # STATUS-UPDATE
