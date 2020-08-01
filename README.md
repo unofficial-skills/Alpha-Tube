@@ -11,6 +11,16 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/andrewstech1?label=follow&style=plastic)
 
+-----------------------------------------------------------------------------------------
+# STATUS-UPDATE
+
+Hello all, sorry for the wait. The skill is still under development and I hope to publish it soon.
+
+We now have a Discord sever which you can join [here](https://discord.gg/Ye2a4UY)
+
+-------------------------------------------------------------------------------------------
+
+
 
 Alpha Video is a new version of the youtube skill.
 This version is currently in the works!!
@@ -41,3 +51,4 @@ If you have any issues then feel free to chat on the Discord sever. Join by clic
 YouTube and the YouTube logo are registered trademarks of Google LLC.
 
 
+Page last updated: 1st of August 2020.
