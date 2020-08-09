@@ -45,7 +45,7 @@ If you have any issues then feel free to chat on the Discord sever. Join by clic
 
 [![Discord](https://img.shields.io/discord/735427271267188758)](https://discord.gg/Ye2a4UY)
 
-This page is hosted at https://andrewstech.me/youtube-alexa-edition/
+This page is hosted at https://alpha-video.andrewstech.me/
 
 ©ANDREWSTECH & ©UNOFFICIAL-SKILLS
 
