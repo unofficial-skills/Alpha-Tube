@@ -12,9 +12,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrewstech1?label=follow&style=plastic)](https://twitter.com/andrewstech1)
 
 -----------------------------------------------------------------------------------------
-# STATUS-UPDATE
+# BIG-UPDATE
+The new api is now working, all that remains is for the last few bugs to be fixed!
 
-Hello all, sorry for the wait. The skill is still under development and I hope to publish it soon.
 
 We now have a Discord sever which you can join [here](https://discord.gg/Ye2a4UY)
 
@@ -45,10 +45,11 @@ If you have any issues then feel free to chat on the Discord sever. Join by clic
 
 [![Discord](https://img.shields.io/discord/735427271267188758)](https://discord.gg/Ye2a4UY)
 
+This page is hosted at https://andrewstech.me/youtube-alexa-edition/
 
 ©ANDREWSTECH & ©UNOFFICIAL-SKILLS
 
 YouTube and the YouTube logo are registered trademarks of Google LLC.
 
 
-Page last updated: 1st of August 2020.
+Page last updated: 9st of August 2020.
