@@ -19,7 +19,11 @@ The new api is now working, all that remains is for the last few bugs to be fixe
 We now have a Discord sever which you can join [here](https://discord.gg/Ye2a4UY)
 
 -------------------------------------------------------------------------------------------
+# BETA SIGNUP
 
+You can now sign up for beta access by clicking [here](http://beta.alpha-video.andrewstech.me)
+
+-------------------------------------------------------------------------------------------
 
 
 Alpha Video is a new version of the youtube skill.
@@ -33,7 +37,7 @@ Subscriptions of YouTube channels are also planned.
 The skill is a module based system to simplify adding additional functionality.
 
 
-Setup will be avalible soon [here](https://alpha-video.andrewstech.me/setup/)
+Setup will be avalible soon [here](https://alpha-video.andrewstech.me/setup/).
 
 People behind the skill
 =====================
