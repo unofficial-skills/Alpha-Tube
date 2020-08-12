@@ -19,6 +19,7 @@ We now have a Discord sever which you can join [here](https://discord.gg/Ye2a4UY
 -------------------------------------------------------------------------------------------
 # BETA SIGNUP
 ![beta](https://img.shields.io/endpoint?url=https://version.andrewstech.me/Alpha-Video/beta.json)
+
 You can now sign up for beta access by clicking [here](http://beta.alpha-video.andrewstech.me)
 
 -------------------------------------------------------------------------------------------
