@@ -1,6 +1,8 @@
 # Alpha-Video
 ![HitCount](http://hits.dwyl.com/unofficial-skills/alpha-video.svg)
 
+![version](https://img.shields.io/endpoint?url=https://version.andrewstech.me/project/alpha-video/services/api/version)
+
 [![status](https://status.alpha-video.andrewstech.me/index.svg)](https://status.alpha-video.andrewstech.me)
 
 ![Alexa](https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fraw.githubusercontent.com%2Funofficial-skills%2Falpha-video%2Fmaster%2FEndpoint.json)
@@ -18,7 +20,7 @@ We now have a Discord sever which you can join [here](https://discord.gg/Ye2a4UY
 
 -------------------------------------------------------------------------------------------
 # BETA SIGNUP
-![beta](https://img.shields.io/endpoint?url=https://version.andrewstech.me/Alpha-Video/beta.json)
+![beta](https://img.shields.io/endpoint?url=https://version.andrewstech.me/project/alpha-video/services/api)
 
 You can now sign up for beta access by clicking [here](http://beta.alpha-video.andrewstech.me)
 
@@ -55,4 +57,4 @@ This page is hosted at https://alpha-video.andrewstech.me/
 YouTube and the YouTube logo are registered trademarks of Google LLC.
 
 
-Page last updated: 9st of August 2020.
+Page last updated: 12st of August 2020.
