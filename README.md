@@ -50,7 +50,7 @@ People behind the skill
 
 Contributors
 =====================
-[Nicolas Arcay Bermejo](https://twitter.com/ArcayBermejo) - Voiceflow Customer Support | Studio Lead.
+[Nicolas Arcay Bermejo](https://twitter.com/ArcayBermejo) - Voiceflow Customer Support / Studio Lead.
 
 ---------------------------------------------------------------------------------------------------------
 
