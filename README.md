@@ -22,7 +22,7 @@ We now have a Discord sever which you can join [here](https://discord.gg/Ye2a4UY
 # BETA SIGNUP
 ![beta](https://img.shields.io/endpoint?url=https://version.andrewstech.me/project/alpha-video/services/api)
 
-BETA IS NOW FULL
+Instructions to join beta are located in the faq section of the Discord server.
 
 -------------------------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ This page is hosted at https://alpha-video.andrewstech.me/
 YouTube and the YouTube logo are registered trademarks of Google LLC.
 
 
-Page last updated: 9th of September 2020.
+Page last updated: 13th of September 2020.
