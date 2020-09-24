@@ -13,11 +13,7 @@
 
 -----------------------------------------------------------------------------------------
 # BIG-UPDATE
-The new api is now working, all that remains is for the last few bugs to be fixed!
-
-
-We now have a Discord sever which you can join [here](https://discord.gg/Ye2a4UY)
-
+We believe the source of the main bugs causing me to hold back the release are due to videos have different addresses based on the region that it is viewed in. 
 -------------------------------------------------------------------------------------------
 # BETA SIGNUP
 ![beta](https://img.shields.io/endpoint?url=https://version.andrewstech.me/project/alpha-video/services/api)
@@ -68,4 +64,4 @@ This page is hosted at https://alpha-video.andrewstech.me/
 YouTube and the YouTube logo are registered trademarks of Google LLC.
 
 
-Page last updated: 13th of September 2020.
+Page last updated: 24th of September 2020.
