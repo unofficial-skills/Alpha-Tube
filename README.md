@@ -16,7 +16,9 @@
 
 We are taking place in hacktoberfest2020 any help given to this project will be greatly appreciated.
 
-Beta builds are available: https://version.andrewstech.me/Alpha-Video/beta-builds/
+Beta builds are available: https://version.andrewstech.me/Alpha-Video/beta-builds/ 
+
+Have a question post a issue
 -------------------------------------------------------------------------------------------
 # BETA SIGNUP
 ![beta](https://img.shields.io/endpoint?url=https://version.andrewstech.me/project/alpha-video/services/api)
@@ -67,4 +69,4 @@ This page is hosted at https://alpha-video.andrewstech.me/
 YouTube and the YouTube logo are registered trademarks of Google LLC.
 
 
-Page last updated: 5th October 2020.
+Page last updated: 7th October 2020.
