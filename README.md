@@ -49,11 +49,13 @@ People behind the skill
 -[JaimeMF](https://github.com/jaimeMF) - The maker of YouTube-DL-Api.
 
 -[HermanFassett](https://github.com/HermanFassett) - The maker of the YouTube-Scrape.
+
 ---------------------------------------------------------------------------------------------------
 
 
 Contributors
 =====================
+
 [Nicolas Arcay Bermejo](https://twitter.com/ArcayBermejo) - Voiceflow Customer Support / Studio Lead.
 
 ---------------------------------------------------------------------------------------------------------
