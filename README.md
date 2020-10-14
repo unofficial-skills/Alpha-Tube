@@ -5,11 +5,8 @@
 
 [![status](https://status.alpha-video.andrewstech.me/index.svg)](https://status.alpha-video.andrewstech.me)
 
-![Alexa](https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fraw.githubusercontent.com%2Funofficial-skills%2Falpha-video%2Fmaster%2FEndpoint.json)
-
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/andrewstech1?label=follow&style=plastic)](https://twitter.com/andrewstech1)
 
 -----------------------------------------------------------------------------------------
 # HACKTOBERFEST
@@ -63,6 +60,10 @@ Contributors
 If you have any issues then feel free to chat on the Discord sever. Join by clicking the link bellow.
 
 [![Discord](https://img.shields.io/discord/735427271267188758)](https://discord.gg/Ye2a4UY)
+
+Follow Andrew on twitter @andrewstech1
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/andrewstech1?label=follow&style=plastic)](https://twitter.com/andrewstech1)
 
 This page is hosted at https://alpha-video.andrewstech.me/
 
