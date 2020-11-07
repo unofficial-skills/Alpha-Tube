@@ -7,17 +7,13 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-
------------------------------------------------------------------------------------------
-# HACKTOBERFEST
-
-We are taking place in hacktoberfest2020 any help given to this project will be greatly appreciated.
-
-Beta builds are available: https://version.andrewstech.me/Alpha-Video/beta-builds/ 
-
-Have a question post a issue
 -------------------------------------------------------------------------------------------
-# BETA SIGNUP
+# PROJECT HALTED
+
+Sorry all this project has been halted till further notice.  This is due to a region blocking issue which currently can't be fixed. If a fix is found in the future then this project will be resumed.      If you have any ideas on how to bypass youtube's region blocking then please email projects@andrewstech.me
+
+-------------------------------------------------------------------------------------------
+# BETA IS CLOSED
 ![beta](https://img.shields.io/endpoint?url=https://version.andrewstech.me/project/alpha-video/services/api)
 
 Instructions to join beta are located in the faq section of the Discord server.
