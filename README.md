@@ -3,8 +3,6 @@
 
 ![version](https://img.shields.io/endpoint?url=https://version.andrewstech.me/project/alpha-video/services/api/version)
 
-[![status](https://status.alpha-video.andrewstech.me/index.svg)](https://status.alpha-video.andrewstech.me)
-
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 -------------------------------------------------------------------------------------------
@@ -68,4 +66,4 @@ This page is hosted at https://alpha-video.andrewstech.me/
 YouTube and the YouTube logo are registered trademarks of Google LLC.
 
 
-Page last updated: 7th October 2020.
+Page last updated: 11th November 2020.
