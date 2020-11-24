@@ -8,8 +8,9 @@
 -------------------------------------------------------------------------------------------
 # PROJECT HALTED
 
-Sorry all this project has been halted till further notice.  This is due to a region blocking issue which currently can't be fixed. If a fix is found in the future then this project will be resumed.      If you have any ideas on how to bypass youtube's region blocking then please email projects@andrewstech.me
+Sorry all this project has been halted till further notice.  This is due to a region blocking issue which currently can't be fixed. If a fix is found in the future then this project will be resumed.
 
+If you are still looking for a way to play YouTube on alexa there is an alternative option but is much complicated to setup. https://github.com/mlomboglia/alexa-skill-mytube
 -------------------------------------------------------------------------------------------
 # BETA IS CLOSED
 ![beta](https://img.shields.io/endpoint?url=https://version.andrewstech.me/project/alpha-video/services/api)
@@ -66,4 +67,4 @@ This page is hosted at https://alpha-video.andrewstech.me/
 YouTube and the YouTube logo are registered trademarks of Google LLC.
 
 
-Page last updated: 11th November 2020.
+Page last updated: 24th November 2020.
