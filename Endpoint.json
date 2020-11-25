@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "Alexa-conectivity",
-  "message": "100%",
-  "color": "green"
+  "message": "0%",
+  "color": "red"
 }
