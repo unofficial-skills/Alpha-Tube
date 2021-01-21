@@ -32,8 +32,7 @@ def get_videos(url, extra_params):
     }
     ydl_params.update(extra_params)
     ydl = SimpleYDL(ydl_params)
-    res = ydl.extract_info(url, download=False)
-    return res
+    return ydl.extract_info(url, download=False)
 
 
 def flatten_result(result):

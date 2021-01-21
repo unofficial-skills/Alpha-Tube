@@ -47,7 +47,7 @@ class ServerTest(unittest.TestCase):
         """Test extra parameters for YoutubeDL"""
         test_url = 'https://www.youtube.com/playlist?list=PLcUid3OP_4OV46dBG6R2AvV_-QyB61WRH'
         info = self.get_video_info(test_url, playliststart='2', playlistend='2')
-        ids = set(v['id'] for v in info['info']['entries'])
+        ids = {v['id'] for v in info['info']['entries']}
         self.assertEqual(ids, {'_DiEbmg3lU8'})
 
         test_url = 'https://www.youtube.com/watch?v=QRS8MkLhQmM'
